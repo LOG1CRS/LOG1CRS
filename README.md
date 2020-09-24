@@ -1,5 +1,4 @@
 <h2> Hello World!  <img src="" width="24px"> </h2>
-<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="430" width="400" align="right"></img>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
