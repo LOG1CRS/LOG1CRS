@@ -1,6 +1,6 @@
 <h1> Hello World!  <img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/Earth.gif" width="24px"> </h1>
 
-<img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/me.gif" height="430" width="400" align="right"></img>
+
 
 <h2> 👨🏻‍💻 About Me </h2>
 
