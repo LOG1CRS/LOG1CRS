@@ -1,4 +1,4 @@
-<h2> Hello World!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h2>
+<h2> Hello World!  <img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/Earth.gif" width="24px"> </h2>
 <img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="430" width="400" align="right"></img>
 
 <h3> 👨🏻‍💻 About Me </h3>
