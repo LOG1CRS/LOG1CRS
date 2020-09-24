@@ -1,4 +1,4 @@
-<h2> Hello World!  <img src="" width="24px"> </h2>
+<h2> Hello World!  <img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/Earth.gif" width="24px"> </h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -12,5 +12,5 @@ language is JavaScript and I love working with React and Node. :electron:</p>
 
 
 
-<h3> 📱🏻 Connect with Me </h3>
+<h3> 📱 Connect with Me </h3>
 
