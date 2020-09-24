@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+<p>I like the F1 🏁, my favorite team is RedBull, I love play videogames like Valorant and Destiny. 🕹 Ah! and that's me 👉🏻</p>
+
 <p>The areas that interest me most are the technology behind the development of modern
 multi-platform apps, both back -end and front-end, APIs, and websites. My favorite programming
 language is JavaScript and I love working with React and Node. :electron:</p>
-
-<p>I like the F1 🏁, my favorite team is RedBull, I love play videogames like Valorant and Destiny. 🕹 Ah! and that's me 👉🏻</p>
 
 <h3> 📱 Connect with Me </h3>
 
@@ -16,9 +16,10 @@ language is JavaScript and I love working with React and Node. :electron:</p>
   <img align="left" alt="Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Instagram"width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram"width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
-<a href="mailto:shubhamdeepjha@gmail.com">
+<a href="mailto:log1c.rs.psc@gmail.com">
     <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+</a>
+
 [![GitHub LOG1CRS](https://img.shields.io/github/followers/LOG1CRS?label=follow&style=social)](https://github.com/LOG1CRS)
