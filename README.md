@@ -2,7 +2,7 @@
 
 <img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/me.gif" height="250" width="360" align="right"></img>
 
-<p style="font-size: 20px">
+<p style="font-size: 50px;">
   <em>
     My name is André,  I'm twenty-one years old, living in Mexico. I'm a student of Bachelor of Science in Computer Graphics and Systems Engineering at Universidad Panamericana. 
   </em>  
