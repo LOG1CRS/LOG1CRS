@@ -1,6 +1,6 @@
 <h1> Hello World <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/Earth.gif" width="24px"> </h1>
 
-<img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/me.gif" height="290" width="330" align="right"></img>
+<img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/me.gif" height="250" width="360" align="right"></img>
 
 <p>
   <em>
