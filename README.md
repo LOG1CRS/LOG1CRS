@@ -10,7 +10,7 @@ language is JavaScript and I love working with React and Node. :electron:</p>
 
 <p>I like the F1 🏎 🏁, my favorite team is RedBull, I love play videogames like Valorant and Destiny. 🕹</p>
 
-
+<img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/me.gif" height="430" width="400" align="right"></img>
 
 <h3> 📱 Connect with Me </h3>
 
