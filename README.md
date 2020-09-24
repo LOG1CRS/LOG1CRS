@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2> Hello World!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h2>
+<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="430" width="400" align="right"></img>
 
-<!--
-**LOG1CRS/LOG1CRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+<p>My name is André, I am twenty-one years old and I'm from Mexico</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>The areas that interest me most are the technology behind the development of modern
+multi-platform apps, both back -end and front-end, APIs, and websites. My favorite programming
+language is JavaScript and I love working with React and Node. :electron:</p>
+
+<p>I like the F1 🏎 🏁, my favorite team is RedBull, I love play videogames like Valorant and Destiny. 🕹</p>
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+<h3> 📱🏻 Connect with Me </h3>
+
