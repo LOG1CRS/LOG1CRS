@@ -10,7 +10,7 @@
 multi-platform apps, both back -end and front-end, APIs, and websites. My favorite programming
 language is JavaScript and I love working with React and Node. :electron:</p>
 
-<p>I like the F1 🏁, my favorite team is RedBull, I love play videogames like Valorant and Destiny. 🕹</p>
+<p>I like the F1 🏁, my favorite team is RedBull, I love play videogames like Valorant and Destiny. 🕹 Ah! and that's me 👉🏻</p>
 
 <h2> 📱 Connect with Me </h2>
 
