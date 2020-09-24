@@ -1,6 +1,6 @@
 <h1> Hello World! <img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/Earth.gif" width="24px"> </h1>
 
-<img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/me.gif" height="350" width="350" align="right"></img>
+<img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/me.gif" height="350" width="370" align="right"></img>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -10,7 +10,7 @@
   </em>  
 </p>
 
-<p>I like the F1 🏁, my favorite team is RedBull, I love playing videogames like Valorant and Destiny. 🕹 Ah! and that's me when i'm coding 👉🏻</p>
+<p>I like watching the F1 🏁, my favorite team is RedBull, I love playing videogames like Valorant and Destiny. 🕹 Ah! and that's me when i'm coding 👉🏻</p>
 
 <p> My favorite programming language is JavaScript and I love working with React and Node. :electron:</p>
 
