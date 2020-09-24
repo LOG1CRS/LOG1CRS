@@ -1,4 +1,4 @@
-<h1> Hello World! <img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/Earth.gif" width="24px"> </h1>
+<h1> Hello World <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/Earth.gif" width="24px"> </h1>
 
 <img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/me.gif" height="300" width="320" align="right"></img>
 
