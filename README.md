@@ -4,7 +4,7 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-<p>My name is André, I am twenty-one years old and I'm from Mexico</p>
+<p>My name is André, I am twenty-one years old, I'm from Mexico 🇲🇽 and I'm a student of Bachelor of Science in Computer Graphics and Systems Engineering at Universidad Panamericana. </p>
 
 <p>The areas that interest me most are the technology behind the development of modern
 multi-platform apps, both back -end and front-end, APIs, and websites. My favorite programming
