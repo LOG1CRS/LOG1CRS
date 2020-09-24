@@ -1,14 +1,14 @@
 <h1> Hello World <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/Earth.gif" width="24px"> </h1>
 
-<img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/me.gif" height="300" width="320" align="right"></img>
-
-<h3> 👨🏻‍💻 About Me </h3>
+<img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/me.gif" height="270" width="300" align="right"></img>
 
 <p>
   <em>
     My name is André,  I'm twenty-one years old, living in Mexico. I'm a student of Bachelor of Science in Computer Graphics and Systems Engineering at Universidad Panamericana. 
   </em>  
 </p>
+
+<h3> 👨🏻‍💻 About Me </h3>
 
 <p>I like watching the F1 🏁, my favorite team is RedBull, I love playing videogames like Valorant and Destiny. 🕹 Ah! and that's me when i'm coding 👉🏻</p>
 <p> My favorite programming language is JavaScript and I love working with Node and React. :electron:</p>
