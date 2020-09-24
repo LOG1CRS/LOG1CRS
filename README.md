@@ -2,7 +2,7 @@
 
 <img src="https://github.com/LOG1CRS/LOG1CRS/blob/master/me.gif" height="250" width="360" align="right"></img>
 
-<p style="font-size: 50px;">
+<p>
   <em>
     My name is André,  I'm twenty-one years old, living in Mexico. I'm a student of Bachelor of Science in Computer Graphics and Systems Engineering at Universidad Panamericana. 
   </em>  
@@ -29,6 +29,6 @@
 
 <h3> 💻 Technical Skills </h3>
 <br/>
-<div style="display: flex">
+<div style="display: flex; max-widht: 100px;">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white" <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032"> <img src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717"> 
 </div>
