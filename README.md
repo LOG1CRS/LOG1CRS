@@ -18,7 +18,7 @@
 <a href="#">
   <img align="left" alt="Instagram"width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
-<a href="mailto:andrers@handlerapp.com">
+<a href="mailto:andre_rs@handlerapp.com">
     <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 
